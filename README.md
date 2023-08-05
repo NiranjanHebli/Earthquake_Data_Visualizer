@@ -57,7 +57,7 @@ jupyter nbconvert --execute main.ipynb
 
 #### Get all items
 
-```http
+```
   GET https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/{???}.csv
 
 ```
