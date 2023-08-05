@@ -15,7 +15,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Earthquake_Data_Visualizer-main/
+  cd Earthquake_Data_Visualizer/
 ```
 
 Run main.ipynb 
