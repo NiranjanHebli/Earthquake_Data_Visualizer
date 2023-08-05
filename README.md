@@ -15,7 +15,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Earthquake_Data_Visualizer/
+cd Earthquake_Data_Visualizer/
 ```
 
 Run main.ipynb 
@@ -55,11 +55,10 @@ jupyter nbconvert --execute main.ipynb
 
 ## API Reference
 
-#### Get all items
+
 
 ```
-  GET https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/{???}.csv
-
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/{???}.csv
 ```
 
 | Parameter | Type     | Description                |
