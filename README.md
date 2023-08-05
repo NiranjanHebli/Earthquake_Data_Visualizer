@@ -28,6 +28,7 @@ jupyter nbconvert --execute main.ipynb
 
 ![newplot](https://github.com/NiranjanHebli/Earthquake_Data_Visualizer/assets/84934990/48ca481f-022f-4d67-b449-1e6bfbe56fab)
 
+![newplot1](https://github.com/NiranjanHebli/Earthquake_Data_Visualizer/assets/84934990/9efae56f-2038-404f-b86d-d460f7ce02d0)
 
 ## Features
 
