@@ -32,9 +32,9 @@ jupyter nbconvert --execute main.ipynb
 
 ## Features
 
-- Available for any date and time
-- Available for any region
-- Available for range of magnitudes of earthquake
+- Available for real-time date and time
+- Available for a variety of regions
+- Available for a range of magnitudes of earthquake
 - Robust 
 - User-Friendly 
 
