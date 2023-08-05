@@ -1,10 +1,7 @@
 
-# Earthquake Visualizer 
+# Earthquake Data Visualizer 
 
 This project is a Python-based earthquake visualizer that utilizes data from the US Geological Survey (USGS) to create interactive maps showcasing earthquake occurrences. The visualizer utilizes the Plotly library for data visualization purposes.
-
-
-
 
 
 ## Run Locally
@@ -12,32 +9,26 @@ This project is a Python-based earthquake visualizer that utilizes data from the
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/NiranjanHebli/Earthquake_Data_Visualizer.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Earthquake_Data_Visualizer-main/
 ```
 
-Install dependencies
+Run main.ipynb 
 
 ```bash
-  npm install
+jupyter nbconvert --execute main.ipynb
+
 ```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-
 ## Screenshots
 
+![newplot](https://github.com/NiranjanHebli/Earthquake_Data_Visualizer/assets/84934990/48ca481f-022f-4d67-b449-1e6bfbe56fab)
 
-
+![newplot1](https://github.com/NiranjanHebli/Earthquake_Data_Visualizer/assets/84934990/9efae56f-2038-404f-b86d-d460f7ce02d0)
 
 ## Features
 
